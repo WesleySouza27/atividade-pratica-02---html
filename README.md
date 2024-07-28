@@ -1,3 +1,3 @@
 #ATIVIDADE PRATICA 02 HTML
 ---
-![pagina fullstack](imgFullstack.png)
+![tela fullstack](/imagens/imgFullstack.png)
